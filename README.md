@@ -1,5 +1,4 @@
-## 🚴‍♂️ Adventure Works a Bike Company  : [Dashboard Link](https://app.powerbi.com/links/tPx_cQ7V9d?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare&bookmarkGuid=1915a447-5fee-44e0-a18e-392ef6663bfd)
-
+## 🚴‍♂️ Adventure Works a Bike Company  
 ## 📝 Company Overview
 
 Adventure Works is a premier provider of high-quality bicycles, accessories, clothing, and components, dedicated to fueling the passion of cyclists around the world. Founded with a mission to make cycling accessible, enjoyable, and adventurous for everyone, Adventure Works combines innovation, durability, and style in every product it offers.
